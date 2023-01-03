@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+In this Project I have used MaterialUI Library and used custom styles in themes Folder
+-----CarouselCard folder I have used *useState*
+------Data folder conists of api data in js file in the form of array
+------imported array from data folder in *LocationCard *file and drilled to *CarouselCard*
+------- used Routing in *app.js*... for landing Page today giving links to pages
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
