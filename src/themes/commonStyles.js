@@ -54,6 +54,7 @@ export const fixedIcon={
 };
 export const carouselImage={
     height:275,
+    width:300,
     display:'block',
     overflow:'hidden',
     borderRadius:3,
